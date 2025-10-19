@@ -12,20 +12,7 @@
         <![CDATA[VAST 4.0 Pilot - Scenario 5]]>
       </AdTitle>
       <Creatives>
-        <Creative id="5480" sequence="1" adId="2447226">
-          <CompanionAds>
-            <Companion id="1232" width="100" height="150" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250" adSlotId="3214" pxratio="1400">
-              <StaticResource creativeType="image/png">
-                <![CDATA[https://www.iab.com/wp-content/uploads/2014/09/iab-tech-lab-6-644x290.png]]>
-              </StaticResource>
-              <CompanionClickThrough>
-                <![CDATA[https://iabtechlab.com]]>
-              </CompanionClickThrough>
-            </Companion>
-          </CompanionAds>
-          <UniversalAdId idRegistry="Ad-ID" >8465</UniversalAdId>
-        </Creative>
-        <Creative id="5481" sequence="1" adId="2447226">
+        <Creative id="inline-5480" sequence="1" adId="2447226">
           <Linear>
             <TrackingEvents>
               <Tracking event="start" ><![CDATA[https://example.com/tracking/start]]></Tracking>
