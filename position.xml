@@ -6,7 +6,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6313,positionmode=strict,position=1,positionpriority=0]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6313,repeatitionpolicy=2,positionmode=strict,position=1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -26,7 +26,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6314,positionmode=strict,position=0,positionpriority=1]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6314,repeatitionpolicy=2,positionmode=strict,position=1,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -46,7 +46,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6315,positionmode=preferred,position=1,positionpriority=0]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6315,repeatitionpolicy=2,positionmode=preferred,position=0,positionpriority=2]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -66,7 +66,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6316,positionmode=preferred,position=0,positionpriority=2]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6316,repeatitionpolicy=2,positionmode=preferred,position=0,positionpriority=3]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -86,7 +86,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6317,positionmode=strict,position=-1,positionpriority=1]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6317,repeatitionpolicy=2,positionmode=strict,position=-1,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -106,7 +106,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,positionmode=preferred,position=-1,positionpriority=0]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,repeatitionpolicy=2,positionmode=preferred,position=-1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
