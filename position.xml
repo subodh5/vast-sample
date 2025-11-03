@@ -26,7 +26,7 @@
       <Creatives>
         <Creative id="C2">
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6314,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=0,positionpriority=1]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6314,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=1,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -106,7 +106,7 @@
       <Creatives>
         <Creative id="C6">
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=-1,positionpriority=0]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=-1,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
