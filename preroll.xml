@@ -2,7 +2,7 @@
   <Ad id="preroll_A">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
-      <AdTitle>preroll</AdTitle>
+      <AdTitle>test_preroll</AdTitle>
       <Creatives>
         <Creative id="p1">
           <Linear>
