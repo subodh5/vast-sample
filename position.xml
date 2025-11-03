@@ -4,7 +4,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Strict First High Priority</AdTitle>
       <Creatives>
-        <Creative>
+        <Creative id="C1">
           <Linear>
             <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6313,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
@@ -24,7 +24,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Strict First Lower Priority</AdTitle>
       <Creatives>
-        <Creative>
+        <Creative id="C2">
           <Linear>
             <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6314,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=0,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
@@ -44,7 +44,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Preferred First High Priority</AdTitle>
       <Creatives>
-        <Creative>
+        <Creative id="C3">
           <Linear>
             <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6315,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=0,positionpriority=2]]></AdParameters>
             <Duration>00:00:15</Duration>
@@ -64,7 +64,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Preferred Any Position</AdTitle>
       <Creatives>
-        <Creative>
+        <Creative id="C4">
           <Linear>
             <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6316,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=0,positionpriority=3]]></AdParameters>
             <Duration>00:00:15</Duration>
@@ -84,7 +84,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Strict Backfill</AdTitle>
       <Creatives>
-        <Creative>
+        <Creative id="C5">
           <Linear>
             <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6317,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=-1,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
@@ -104,7 +104,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Preferred Backfill</AdTitle>
       <Creatives>
-        <Creative>
+        <Creative id="C6">
           <Linear>
             <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=-1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
