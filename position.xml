@@ -6,7 +6,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6313,repetitionpolicy=2,positionmode=strict,position=1,positionpriority=0]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6313,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -26,7 +26,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6314,repetitionpolicy=2,positionmode=strict,position=0,positionpriority=1]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6314,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=0,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -46,7 +46,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6315,repetitionpolicy=2,positionmode=preferred,position=0,positionpriority=2]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6315,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=0,positionpriority=2]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -66,7 +66,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6316,repetitionpolicy=2,positionmode=preferred,position=0,positionpriority=3]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6316,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=0,positionpriority=3]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -86,7 +86,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6317,repetitionpolicy=2,positionmode=strict,position=-1,positionpriority=1]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6317,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=-1,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -106,7 +106,7 @@
       <Creatives>
         <Creative>
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,repetitionpolicy=2,positionmode=preferred,position=-1,positionpriority=0]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=-1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
