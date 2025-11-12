@@ -1,0 +1,59 @@
+<VAST version="4.2" xmlns="http://www.iab.com/VAST">
+  <Ad id="R1">
+    <InLine>
+      <AdSystem>TestAdServer</AdSystem>
+      <AdTitle>Avoid Back-to-Back</AdTitle>
+      <Creatives>
+        <Creative id="C1">
+          <Linear>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=2002,fcapmode=creative,repetitionpolicy=1,positionmode=preferred,position=0,positionpriority=1]]></AdParameters>
+            <Duration>00:00:15</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+                <![CDATA[https://example.com/repetitionpolicy-1.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id="R2">
+    <InLine>
+      <AdSystem>TestAdServer</AdSystem>
+      <AdTitle>Do Not Repeat in Same Break</AdTitle>
+      <Creatives>
+        <Creative id="C1">
+          <Linear>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=3003,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=1,positionpriority=0]]></AdParameters>
+            <Duration>00:00:15</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+                <![CDATA[https://example.com/repetitionpolicy-2.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id="R3">
+    <InLine>
+      <AdSystem>TestAdServer</AdSystem>
+      <AdTitle>Do Not Repeat Within Time Window</AdTitle>
+      <Creatives>
+        <Creative id="C1">
+          <Linear>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=4004,fcapmode=creative,repetitionpolicy=3,repeattime=600,positionmode=preferred,position=0,positionpriority=1]]></AdParameters>
+            <Duration>00:00:15</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+                <![CDATA[https://example.com/repetitionpolicy-3.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
