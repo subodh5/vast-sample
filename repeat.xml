@@ -10,7 +10,7 @@
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
-                <![CDATA[https://example.com/repetitionpolicy-1.mp4]]>
+                <![CDATA[https://github.com/subodh5/vast-sample/raw/refs/heads/main/sample-ad1.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
@@ -29,7 +29,7 @@
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
-                <![CDATA[https://example.com/repetitionpolicy-2.mp4]]>
+                <![CDATA[https://github.com/subodh5/vast-sample/raw/refs/heads/main/sample-ad2.mp44]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
@@ -48,7 +48,7 @@
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
-                <![CDATA[https://example.com/repetitionpolicy-3.mp4]]>
+                <![CDATA[https://github.com/subodh5/vast-sample/raw/refs/heads/main/sample-ad3.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
