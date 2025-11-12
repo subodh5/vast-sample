@@ -23,7 +23,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Do Not Repeat in Same Break</AdTitle>
       <Creatives>
-        <Creative id="C1">
+        <Creative id="C2">
           <Linear>
             <AdParameters><![CDATA[adrulesversion=2.1,campaignid=3003,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
@@ -42,7 +42,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Do Not Repeat Within Time Window</AdTitle>
       <Creatives>
-        <Creative id="C1">
+        <Creative id="C3">
           <Linear>
             <AdParameters><![CDATA[adrulesversion=2.1,campaignid=4004,fcapmode=creative,repetitionpolicy=3,repeattime=600,positionmode=preferred,position=0,positionpriority=2]]></AdParameters>
             <Duration>00:00:15</Duration>
