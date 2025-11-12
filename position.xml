@@ -2,7 +2,7 @@
   <Ad id="A">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
-      <AdTitle>Strict First High Priority</AdTitle>
+      <AdTitle>preferred_1_0</AdTitle>
       <Creatives>
         <Creative id="C1">
           <Linear>
@@ -22,7 +22,7 @@
   <Ad id="B">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
-      <AdTitle>Strict First Lower Priority</AdTitle>
+      <AdTitle>strict_1_1</AdTitle>
       <Creatives>
         <Creative id="C2">
           <Linear>
@@ -42,7 +42,7 @@
   <Ad id="C">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
-      <AdTitle>Preferred First High Priority</AdTitle>
+      <AdTitle>preferred_0_3</AdTitle>
       <Creatives>
         <Creative id="C3">
           <Linear>
@@ -62,7 +62,7 @@
   <Ad id="D">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
-      <AdTitle>Preferred Any Position</AdTitle>
+      <AdTitle>preferred_0_2</AdTitle>
       <Creatives>
         <Creative id="C4">
           <Linear>
@@ -82,11 +82,11 @@
   <Ad id="E">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
-      <AdTitle>Strict Backfill</AdTitle>
+      <AdTitle>preferred_-1_1</AdTitle>
       <Creatives>
         <Creative id="C5">
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6317,fcapmode=campaign,repetitionpolicy=2,positionmode=strict,position=-1,positionpriority=1]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6317,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=-1,positionpriority=1]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
@@ -102,11 +102,11 @@
   <Ad id="F">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
-      <AdTitle>Preferred Backfill</AdTitle>
+      <AdTitle>preferred_-1_0</AdTitle>
       <Creatives>
         <Creative id="C6">
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=-1,positionpriority=1]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=6318,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=-1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
