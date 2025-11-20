@@ -25,7 +25,7 @@
       <Creatives>
         <Creative id="C2">
           <Linear>
-            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=3003,fcapmode=campaign,repetitionpolicy=2,positionmode=preferred,position=1,positionpriority=0]]></AdParameters>
+            <AdParameters><![CDATA[adrulesversion=2.1,campaignid=3003,fcapmode=creative,repetitionpolicy=2,positionmode=preferred,position=1,positionpriority=0]]></AdParameters>
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
