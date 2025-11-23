@@ -1,8 +1,5 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd"
     version="3.0">
-    <script id="eppiocemhmnlbhjplcgkofciiegomcon" />
-    <script />
-    <script />
     <Ad id="R1">
         <InLine>
             <AdSystem>
