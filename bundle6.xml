@@ -1,0 +1,20 @@
+<VAST version="4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+  <Ad id="F">
+    <InLine>
+      <AdSystem>TestAdServer</AdSystem>
+      <AdTitle>Ad-6</AdTitle>
+      <Creatives>
+        <Creative id="C6">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+                <![CDATA[https://github.com/subodh5/vast-sample/raw/refs/heads/main/sample-ad6.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
