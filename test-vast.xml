@@ -1,0 +1,20 @@
+<VAST version="4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+  <Ad id="A">
+    <InLine>
+      <AdSystem>TestAdServer</AdSystem>
+      <AdTitle>Ad-1</AdTitle>
+      <Creatives>
+        <Creative id="C1">
+          <Linear>
+            <Duration>00:00:10</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+                <![CDATA[	https://video.turncdn.com/content-data/2025_11/a531359acf5746aeb129176f0fd55734.mp4?aid=56955495]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
