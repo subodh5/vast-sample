@@ -4,7 +4,7 @@
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>Ad-2</AdTitle>
       <Creatives>
-        <Creative id="C2">
+        <Creative id="B2">
           <Linear>
             <Duration>00:00:15</Duration>
             <MediaFiles>
