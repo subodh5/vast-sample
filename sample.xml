@@ -9,7 +9,7 @@
 				<![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=impression]]>
 			</Impression>
 			<Creatives>
-				<Creative id="1421/947">
+				<Creative id="midroll-creative-1">
 					<Linear>
 						<Duration>00:00:33</Duration>
 						<TrackingEvents>
