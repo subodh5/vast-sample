@@ -1,0 +1,20 @@
+<VAST version="4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+  <Ad id="2">
+    <InLine>
+      <AdSystem>TestAdServer</AdSystem>
+      <AdTitle>Side By Side</AdTitle>
+      <Creatives>
+        <Creative id="a450291a-5c6c-4e03-8c23-09329ae4b1ac">
+          <Linear>
+            <Duration>00:00:05</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+                <![CDATA[https://ast.g-mana.online/bmedia-server/undefined/creatives/b5cb844a-a13f-43a4-a177-8ddf1260eb85.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
